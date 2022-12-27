@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.list-items {
+  width: 100%;
+  border: 1px solid hsl(215, 19%, 35%);
+  display: flex;
+
+  align-items: center;
+  border-top: none;
+}
+
+.list-name {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #334155;
+  width: 25%;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.delete-container {
+  width: 25%;
+  text-align: center;
+}
+
+.img-delete {
+  height: 25px;
+}
+
+.delete {
+  background-color: transparent;
+  border-width: 0px;
+}
